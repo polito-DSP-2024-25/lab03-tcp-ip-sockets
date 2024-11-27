@@ -1,2 +1,4 @@
-# lab03-tcp-ip-sockets
-Laboratory 03: TCP/IP Sockets
+# Laboratory Activity 3 - TCP/IP Sockets
+The structure of this repository is the following:
+  - "Client" contains the ConversionRequest Java application, which works as a TCP/IP Socket client;
+  - "Server" contains the Converter Java application, which works as a TCP/IP Socket server.
